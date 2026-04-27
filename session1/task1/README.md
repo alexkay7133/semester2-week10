@@ -35,7 +35,7 @@ We have also provided the text of Leo Tolstoy's famously lengthy novel
 3. Briefly examine `tmp.txt` to verify that the operation has been performed
    correctly, then remove this file.
 
-4. The same task can actually be performed the standard character translation
+4. The same task can actually be performed. The standard character translation
    utility of Linux systems, `tr`. Try this out now:
 
        time tr A-Z a-z < war_and_peace.txt > tmp.txt
